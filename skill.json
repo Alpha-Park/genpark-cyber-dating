@@ -1,0 +1,10 @@
+{
+  "name": "genpark-cyber-dating",
+  "version": "1.0.0",
+  "description": "GenPark Cyber Dating - Gale-Shapley stable marriage matching algorithm, Big Five personality trait affinity vector solver, and bilateral ELO rating engine with zero dependencies.",
+  "tools": [
+    "solve_gale_shapley_stable_matching",
+    "calculate_semantic_affinity_vector",
+    "update_bilateral_elo_ratings"
+  ]
+}
